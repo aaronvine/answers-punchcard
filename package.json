@@ -1,0 +1,22 @@
+{
+  "name": "answers-punchcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronvine/answers-punchcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronvine/answers-punchcard/issues"
+  },
+  "homepage": "https://github.com/aaronvine/answers-punchcard#readme",
+  "dependencies": {
+    "d3": "^3.5.17"
+  }
+}
