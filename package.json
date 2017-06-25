@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aaronvine/answers-punchcard#readme",
   "dependencies": {
-    "d3": "^3.5.17"
+    "d3": "^3.5.17",
+    "d3-punchcard": "^1.0.1"
   }
 }
