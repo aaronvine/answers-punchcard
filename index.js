@@ -1,5 +1,5 @@
 var pane_left = 50
-  , pane_right = 1000
+  , pane_right = 930
   , width = pane_left + pane_right
   , height = 520
   , margin = 10
